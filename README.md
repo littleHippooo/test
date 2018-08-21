@@ -1,2 +1,2 @@
 # test
-<span>123</span>
+<span style="color:red">123</span>
